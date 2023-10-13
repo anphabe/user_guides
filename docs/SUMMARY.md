@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Workplace](README.md)
+* [Giới thiệu Workplace](README.md)
